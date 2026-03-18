@@ -28,7 +28,7 @@ The data used for this analysis was found on Kaggle website. You can get the dat
   - Joins
   - Common table expressions
   - Subquery
-  - 𝗦𝗼𝗿𝘁𝗶𝗻𝗴 & 𝗚𝗿𝗼𝘂𝗽𝗶𝗻𝗴- Group By, Order By, Having
+  - Sorting and Grouping- Group By, Order By, Having
   - Retrieval and Filtering- Select, From, Where, Limit, Case, And etc
 
   # Data transformation
